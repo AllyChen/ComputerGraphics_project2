@@ -1,0 +1,34 @@
+﻿  main.cpp
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(29): warning C4101: 'ShaderMenu': 未參考的區域變數
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(100): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(108): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(116): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(124): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(194): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(250): warning C4018: '<': signed/unsigned 不相符
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(275): warning C4018: '<': signed/unsigned 不相符
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(425): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(430): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(433): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(437): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(442): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(446): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(450): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(455): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(459): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(464): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(468): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(473): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(477): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(481): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(416): warning C4101: 'roll': 未參考的區域變數
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(416): warning C4101: 'pitch': 未參考的區域變數
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(417): warning C4101: 'alpha': 未參考的區域變數
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(417): warning C4101: 'beta': 未參考的區域變數
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(416): warning C4101: 'yaw': 未參考的區域變數
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(417): warning C4101: 'gamma': 未參考的區域變數
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(416): warning C4101: 'r': 未參考的區域變數
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(661): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(685): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\ally\desktop\robot-rx78\robot\main.cpp(688): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  Robot.vcxproj -> C:\Users\Ally\Desktop\Robot-RX78\Robot\Debug\Robot.exe
